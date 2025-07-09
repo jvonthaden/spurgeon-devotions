@@ -1,0 +1,312 @@
+{
+  "7-1": {
+    "morning": {
+      "verse": "Sample Morning Verse 1",
+      "text": "<p>Full original Spurgeon Morning devotional for July 1.</p>"
+    },
+    "evening": {
+      "verse": "Sample Evening Verse 1",
+      "text": "<p>Full original Spurgeon Evening devotional for July 1.</p>"
+    }
+  },
+  "7-2": {
+    "morning": {
+      "verse": "Sample Morning Verse 2",
+      "text": "<p>Full original Spurgeon Morning devotional for July 2.</p>"
+    },
+    "evening": {
+      "verse": "Sample Evening Verse 2",
+      "text": "<p>Full original Spurgeon Evening devotional for July 2.</p>"
+    }
+  },
+  "7-3": {
+    "morning": {
+      "verse": "Sample Morning Verse 3",
+      "text": "<p>Full original Spurgeon Morning devotional for July 3.</p>"
+    },
+    "evening": {
+      "verse": "Sample Evening Verse 3",
+      "text": "<p>Full original Spurgeon Evening devotional for July 3.</p>"
+    }
+  },
+  "7-4": {
+    "morning": {
+      "verse": "Sample Morning Verse 4",
+      "text": "<p>Full original Spurgeon Morning devotional for July 4.</p>"
+    },
+    "evening": {
+      "verse": "Sample Evening Verse 4",
+      "text": "<p>Full original Spurgeon Evening devotional for July 4.</p>"
+    }
+  },
+  "7-5": {
+    "morning": {
+      "verse": "Sample Morning Verse 5",
+      "text": "<p>Full original Spurgeon Morning devotional for July 5.</p>"
+    },
+    "evening": {
+      "verse": "Sample Evening Verse 5",
+      "text": "<p>Full original Spurgeon Evening devotional for July 5.</p>"
+    }
+  },
+  "7-6": {
+    "morning": {
+      "verse": "Sample Morning Verse 6",
+      "text": "<p>Full original Spurgeon Morning devotional for July 6.</p>"
+    },
+    "evening": {
+      "verse": "Sample Evening Verse 6",
+      "text": "<p>Full original Spurgeon Evening devotional for July 6.</p>"
+    }
+  },
+  "7-7": {
+    "morning": {
+      "verse": "Sample Morning Verse 7",
+      "text": "<p>Full original Spurgeon Morning devotional for July 7.</p>"
+    },
+    "evening": {
+      "verse": "Sample Evening Verse 7",
+      "text": "<p>Full original Spurgeon Evening devotional for July 7.</p>"
+    }
+  },
+  "7-8": {
+    "morning": {
+      "verse": "Sample Morning Verse 8",
+      "text": "<p>Full original Spurgeon Morning devotional for July 8.</p>"
+    },
+    "evening": {
+      "verse": "Sample Evening Verse 8",
+      "text": "<p>Full original Spurgeon Evening devotional for July 8.</p>"
+    }
+  },
+  "7-9": {
+    "morning": {
+      "verse": "Sample Morning Verse 9",
+      "text": "<p>Full original Spurgeon Morning devotional for July 9.</p>"
+    },
+    "evening": {
+      "verse": "Sample Evening Verse 9",
+      "text": "<p>Full original Spurgeon Evening devotional for July 9.</p>"
+    }
+  },
+  "7-10": {
+    "morning": {
+      "verse": "Sample Morning Verse 10",
+      "text": "<p>Full original Spurgeon Morning devotional for July 10.</p>"
+    },
+    "evening": {
+      "verse": "Sample Evening Verse 10",
+      "text": "<p>Full original Spurgeon Evening devotional for July 10.</p>"
+    }
+  },
+  "7-11": {
+    "morning": {
+      "verse": "Sample Morning Verse 11",
+      "text": "<p>Full original Spurgeon Morning devotional for July 11.</p>"
+    },
+    "evening": {
+      "verse": "Sample Evening Verse 11",
+      "text": "<p>Full original Spurgeon Evening devotional for July 11.</p>"
+    }
+  },
+  "7-12": {
+    "morning": {
+      "verse": "Sample Morning Verse 12",
+      "text": "<p>Full original Spurgeon Morning devotional for July 12.</p>"
+    },
+    "evening": {
+      "verse": "Sample Evening Verse 12",
+      "text": "<p>Full original Spurgeon Evening devotional for July 12.</p>"
+    }
+  },
+  "7-13": {
+    "morning": {
+      "verse": "Sample Morning Verse 13",
+      "text": "<p>Full original Spurgeon Morning devotional for July 13.</p>"
+    },
+    "evening": {
+      "verse": "Sample Evening Verse 13",
+      "text": "<p>Full original Spurgeon Evening devotional for July 13.</p>"
+    }
+  },
+  "7-14": {
+    "morning": {
+      "verse": "Sample Morning Verse 14",
+      "text": "<p>Full original Spurgeon Morning devotional for July 14.</p>"
+    },
+    "evening": {
+      "verse": "Sample Evening Verse 14",
+      "text": "<p>Full original Spurgeon Evening devotional for July 14.</p>"
+    }
+  },
+  "7-15": {
+    "morning": {
+      "verse": "Sample Morning Verse 15",
+      "text": "<p>Full original Spurgeon Morning devotional for July 15.</p>"
+    },
+    "evening": {
+      "verse": "Sample Evening Verse 15",
+      "text": "<p>Full original Spurgeon Evening devotional for July 15.</p>"
+    }
+  },
+  "7-16": {
+    "morning": {
+      "verse": "Sample Morning Verse 16",
+      "text": "<p>Full original Spurgeon Morning devotional for July 16.</p>"
+    },
+    "evening": {
+      "verse": "Sample Evening Verse 16",
+      "text": "<p>Full original Spurgeon Evening devotional for July 16.</p>"
+    }
+  },
+  "7-17": {
+    "morning": {
+      "verse": "Sample Morning Verse 17",
+      "text": "<p>Full original Spurgeon Morning devotional for July 17.</p>"
+    },
+    "evening": {
+      "verse": "Sample Evening Verse 17",
+      "text": "<p>Full original Spurgeon Evening devotional for July 17.</p>"
+    }
+  },
+  "7-18": {
+    "morning": {
+      "verse": "Sample Morning Verse 18",
+      "text": "<p>Full original Spurgeon Morning devotional for July 18.</p>"
+    },
+    "evening": {
+      "verse": "Sample Evening Verse 18",
+      "text": "<p>Full original Spurgeon Evening devotional for July 18.</p>"
+    }
+  },
+  "7-19": {
+    "morning": {
+      "verse": "Sample Morning Verse 19",
+      "text": "<p>Full original Spurgeon Morning devotional for July 19.</p>"
+    },
+    "evening": {
+      "verse": "Sample Evening Verse 19",
+      "text": "<p>Full original Spurgeon Evening devotional for July 19.</p>"
+    }
+  },
+  "7-20": {
+    "morning": {
+      "verse": "Sample Morning Verse 20",
+      "text": "<p>Full original Spurgeon Morning devotional for July 20.</p>"
+    },
+    "evening": {
+      "verse": "Sample Evening Verse 20",
+      "text": "<p>Full original Spurgeon Evening devotional for July 20.</p>"
+    }
+  },
+  "7-21": {
+    "morning": {
+      "verse": "Sample Morning Verse 21",
+      "text": "<p>Full original Spurgeon Morning devotional for July 21.</p>"
+    },
+    "evening": {
+      "verse": "Sample Evening Verse 21",
+      "text": "<p>Full original Spurgeon Evening devotional for July 21.</p>"
+    }
+  },
+  "7-22": {
+    "morning": {
+      "verse": "Sample Morning Verse 22",
+      "text": "<p>Full original Spurgeon Morning devotional for July 22.</p>"
+    },
+    "evening": {
+      "verse": "Sample Evening Verse 22",
+      "text": "<p>Full original Spurgeon Evening devotional for July 22.</p>"
+    }
+  },
+  "7-23": {
+    "morning": {
+      "verse": "Sample Morning Verse 23",
+      "text": "<p>Full original Spurgeon Morning devotional for July 23.</p>"
+    },
+    "evening": {
+      "verse": "Sample Evening Verse 23",
+      "text": "<p>Full original Spurgeon Evening devotional for July 23.</p>"
+    }
+  },
+  "7-24": {
+    "morning": {
+      "verse": "Sample Morning Verse 24",
+      "text": "<p>Full original Spurgeon Morning devotional for July 24.</p>"
+    },
+    "evening": {
+      "verse": "Sample Evening Verse 24",
+      "text": "<p>Full original Spurgeon Evening devotional for July 24.</p>"
+    }
+  },
+  "7-25": {
+    "morning": {
+      "verse": "Sample Morning Verse 25",
+      "text": "<p>Full original Spurgeon Morning devotional for July 25.</p>"
+    },
+    "evening": {
+      "verse": "Sample Evening Verse 25",
+      "text": "<p>Full original Spurgeon Evening devotional for July 25.</p>"
+    }
+  },
+  "7-26": {
+    "morning": {
+      "verse": "Sample Morning Verse 26",
+      "text": "<p>Full original Spurgeon Morning devotional for July 26.</p>"
+    },
+    "evening": {
+      "verse": "Sample Evening Verse 26",
+      "text": "<p>Full original Spurgeon Evening devotional for July 26.</p>"
+    }
+  },
+  "7-27": {
+    "morning": {
+      "verse": "Sample Morning Verse 27",
+      "text": "<p>Full original Spurgeon Morning devotional for July 27.</p>"
+    },
+    "evening": {
+      "verse": "Sample Evening Verse 27",
+      "text": "<p>Full original Spurgeon Evening devotional for July 27.</p>"
+    }
+  },
+  "7-28": {
+    "morning": {
+      "verse": "Sample Morning Verse 28",
+      "text": "<p>Full original Spurgeon Morning devotional for July 28.</p>"
+    },
+    "evening": {
+      "verse": "Sample Evening Verse 28",
+      "text": "<p>Full original Spurgeon Evening devotional for July 28.</p>"
+    }
+  },
+  "7-29": {
+    "morning": {
+      "verse": "Sample Morning Verse 29",
+      "text": "<p>Full original Spurgeon Morning devotional for July 29.</p>"
+    },
+    "evening": {
+      "verse": "Sample Evening Verse 29",
+      "text": "<p>Full original Spurgeon Evening devotional for July 29.</p>"
+    }
+  },
+  "7-30": {
+    "morning": {
+      "verse": "Sample Morning Verse 30",
+      "text": "<p>Full original Spurgeon Morning devotional for July 30.</p>"
+    },
+    "evening": {
+      "verse": "Sample Evening Verse 30",
+      "text": "<p>Full original Spurgeon Evening devotional for July 30.</p>"
+    }
+  },
+  "7-31": {
+    "morning": {
+      "verse": "Sample Morning Verse 31",
+      "text": "<p>Full original Spurgeon Morning devotional for July 31.</p>"
+    },
+    "evening": {
+      "verse": "Sample Evening Verse 31",
+      "text": "<p>Full original Spurgeon Evening devotional for July 31.</p>"
+    }
+  }
+}
